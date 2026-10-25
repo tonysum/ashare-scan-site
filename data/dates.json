@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-10-23",
+    "short_score": 17.0,
+    "short_label": "冰点",
+    "n_anomalies": 182
+  },
+  {
+    "date": "2026-10-22",
+    "short_score": 58.0,
+    "short_label": "中性",
+    "n_anomalies": 168
+  },
+  {
+    "date": "2026-10-21",
+    "short_score": 55.0,
+    "short_label": "中性",
+    "n_anomalies": 210
+  },
+  {
+    "date": "2026-10-20",
+    "short_score": 33.0,
+    "short_label": "偏弱",
+    "n_anomalies": 181
+  },
+  {
+    "date": "2026-10-19",
+    "short_score": 44.0,
+    "short_label": "中性",
+    "n_anomalies": 211
+  }
+]
