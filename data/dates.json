@@ -1,32 +1,57 @@
 [
   {
     "date": "2026-10-23",
-    "short_score": 17.0,
+    "data_date": "2026-10-22",
+    "short_score": 17,
     "short_label": "冰点",
+    "breadth_score": 11,
+    "breadth_label": "冰点",
+    "valuation_score": 23,
+    "valuation_label": "偏弱",
     "n_anomalies": 182
   },
   {
     "date": "2026-10-22",
-    "short_score": 58.0,
+    "data_date": "2026-10-21",
+    "short_score": 58,
     "short_label": "中性",
+    "breadth_score": 15,
+    "breadth_label": "冰点",
+    "valuation_score": 25,
+    "valuation_label": "偏弱",
     "n_anomalies": 168
   },
   {
     "date": "2026-10-21",
-    "short_score": 55.0,
+    "data_date": "2026-10-20",
+    "short_score": 55,
     "short_label": "中性",
+    "breadth_score": 30,
+    "breadth_label": "偏弱",
+    "valuation_score": 30,
+    "valuation_label": "偏弱",
     "n_anomalies": 210
   },
   {
     "date": "2026-10-20",
-    "short_score": 33.0,
+    "data_date": "2026-10-19",
+    "short_score": 33,
     "short_label": "偏弱",
+    "breadth_score": 16,
+    "breadth_label": "冰点",
+    "valuation_score": 35,
+    "valuation_label": "偏弱",
     "n_anomalies": 181
   },
   {
     "date": "2026-10-19",
-    "short_score": 44.0,
+    "data_date": "2026-10-16",
+    "short_score": 44,
     "short_label": "中性",
+    "breadth_score": 24,
+    "breadth_label": "偏弱",
+    "valuation_score": 32,
+    "valuation_label": "偏弱",
     "n_anomalies": 211
   }
 ]
