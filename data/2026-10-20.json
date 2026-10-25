@@ -1,0 +1,1628 @@
+{
+  "meta": {
+    "date": "2026-10-20",
+    "data_date": "2026-10-19",
+    "generated_at": "2026-10-25 21:33",
+    "title": "A股盘前量价异动扫描 2026-10-20（基于2026-10-19行情）"
+  },
+  "sentiment": {
+    "short": {
+      "score": 33,
+      "label": "偏弱",
+      "color": null,
+      "components": [
+        {
+          "name": "涨停家数",
+          "value_raw": "46家",
+          "score": 29,
+          "weight_raw": "20%",
+          "extra": ""
+        },
+        {
+          "name": "跌停家数",
+          "value_raw": "22家",
+          "score": 46,
+          "weight_raw": "15%",
+          "extra": ""
+        },
+        {
+          "name": "炸板率",
+          "value_raw": "31.34%",
+          "score": 43,
+          "weight_raw": "15%",
+          "extra": ""
+        },
+        {
+          "name": "最高连板",
+          "value_raw": "3板",
+          "score": 13,
+          "weight_raw": "15%",
+          "extra": ""
+        },
+        {
+          "name": "昨日涨停溢价",
+          "value_raw": "0.41%",
+          "score": 44,
+          "weight_raw": "20%",
+          "extra": ""
+        },
+        {
+          "name": "连板晋级率",
+          "value_raw": "18.03%",
+          "score": 20,
+          "weight_raw": "15%",
+          "extra": ""
+        }
+      ],
+      "history": []
+    },
+    "breadth": {
+      "score": 16,
+      "label": "冰点",
+      "color": null,
+      "components": [
+        {
+          "name": "上涨家数占比涨2275/跌3129（涨跌比0.73）",
+          "value_raw": "40.90%",
+          "score": 35,
+          "weight_raw": "30%",
+          "extra": "涨2275/跌3129（涨跌比0.73）"
+        },
+        {
+          "name": "两市成交额",
+          "value_raw": "9,105亿",
+          "score": 0,
+          "weight_raw": "25%",
+          "extra": ""
+        },
+        {
+          "name": "平均换手率(中证全指)",
+          "value_raw": "0.77%",
+          "score": 0,
+          "weight_raw": "15%",
+          "extra": ""
+        },
+        {
+          "name": "融资余额(沪深)数据日 2026-10-19",
+          "value_raw": "24,455亿",
+          "score": 7,
+          "weight_raw": "15%",
+          "extra": "数据日 2026-10-19"
+        },
+        {
+          "name": "融资余额日变动",
+          "value_raw": "-62.60亿",
+          "score": 27,
+          "weight_raw": "15%",
+          "extra": ""
+        }
+      ],
+      "history": []
+    },
+    "valuation": {
+      "score": 35,
+      "label": "偏弱",
+      "color": null,
+      "components": [
+        {
+          "name": "股债利差(沪深300)PE(TTM) 12.38 → 盈利收益率 8.08% − 10年国债 1.650%；近5年分位 55%（月末序列）；股息率 2.79%，股息率−国债 1.14%",
+          "value_raw": "6.43%",
+          "score": 45,
+          "weight_raw": "40%",
+          "extra": "PE(TTM) 12.38 → 盈利收益率 8.08% − 10年国债 1.650%；近5年分位 55%（月末序列）；股息率 2.79%，股息率−国债 1.14%"
+        },
+        {
+          "name": "沪深300 PE(TTM)分位(5年)近5年分位 68%",
+          "value_raw": "12.38倍",
+          "score": 68,
+          "weight_raw": "25%",
+          "extra": "近5年分位 68%"
+        },
+        {
+          "name": "沪深300 近3年点位分位近1年分位 1%（3年区间 3159–5060）",
+          "value_raw": "4,174.53点",
+          "score": 1,
+          "weight_raw": "35%",
+          "extra": "近1年分位 1%（3年区间 3159–5060）"
+        }
+      ],
+      "history": []
+    }
+  },
+  "sectors": {
+    "industry": {
+      "leaders": [
+        {
+          "name": "地面兵装Ⅱ",
+          "pct": 5.22,
+          "amount_yi": 100.4,
+          "turnover": 6.18,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "甘化科工",
+          "leader_pct": 10.03
+        },
+        {
+          "name": "厨卫电器",
+          "pct": 3.2,
+          "amount_yi": 14.7,
+          "turnover": 2.52,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "亿田智能",
+          "leader_pct": 18.34
+        },
+        {
+          "name": "电机Ⅱ",
+          "pct": 2.56,
+          "amount_yi": 35.0,
+          "turnover": 1.73,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "兆威机电",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "小家电",
+          "pct": 2.37,
+          "amount_yi": 44.5,
+          "turnover": 2.58,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "九阳股份",
+          "leader_pct": 5.06
+        },
+        {
+          "name": "国有大型银行Ⅱ",
+          "pct": 2.22,
+          "amount_yi": 119.4,
+          "turnover": 0.17,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "农业银行",
+          "leader_pct": 3.45
+        },
+        {
+          "name": "工程机械",
+          "pct": 2.18,
+          "amount_yi": 48.0,
+          "turnover": 1.01,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "恒立液压",
+          "leader_pct": 6.3
+        },
+        {
+          "name": "白色家电",
+          "pct": 1.93,
+          "amount_yi": 56.8,
+          "turnover": 0.62,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "海信家电",
+          "leader_pct": 2.81
+        },
+        {
+          "name": "贵金属",
+          "pct": 1.85,
+          "amount_yi": 99.3,
+          "turnover": 2.13,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "赤峰黄金",
+          "leader_pct": 3.74
+        },
+        {
+          "name": "城商行Ⅱ",
+          "pct": 1.84,
+          "amount_yi": 76.7,
+          "turnover": 0.69,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "苏州银行",
+          "leader_pct": 3.89
+        },
+        {
+          "name": "中药Ⅱ",
+          "pct": 1.83,
+          "amount_yi": 120.1,
+          "turnover": 1.86,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "达仁堂",
+          "leader_pct": 10.0
+        }
+      ],
+      "laggards": [
+        {
+          "name": "工程咨询服务Ⅱ",
+          "pct": -2.79,
+          "amount_yi": 47.1,
+          "turnover": 2.42,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "经纬股份",
+          "leader_pct": 1.92
+        },
+        {
+          "name": "房地产服务",
+          "pct": -2.75,
+          "amount_yi": 20.0,
+          "turnover": 4.02,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "ST明诚",
+          "leader_pct": 0.0
+        },
+        {
+          "name": "种植业",
+          "pct": -2.64,
+          "amount_yi": 47.8,
+          "turnover": 3.88,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "北大荒",
+          "leader_pct": 0.68
+        },
+        {
+          "name": "渔业",
+          "pct": -2.59,
+          "amount_yi": 5.7,
+          "turnover": 3.16,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "国联水产",
+          "leader_pct": -1.78
+        },
+        {
+          "name": "教育",
+          "pct": -2.45,
+          "amount_yi": 23.4,
+          "turnover": 2.76,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "*ST高科",
+          "leader_pct": 1.58
+        },
+        {
+          "name": "电池",
+          "pct": -2.38,
+          "amount_yi": 422.9,
+          "turnover": 2.45,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "富临精工",
+          "leader_pct": 7.07
+        },
+        {
+          "name": "饮料乳品",
+          "pct": -2.08,
+          "amount_yi": 50.1,
+          "turnover": 1.56,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "新乳业",
+          "leader_pct": 3.26
+        },
+        {
+          "name": "半导体",
+          "pct": -2.07,
+          "amount_yi": 1770.7,
+          "turnover": 2.87,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "大普微-UW",
+          "leader_pct": 20.0
+        },
+        {
+          "name": "综合Ⅱ",
+          "pct": -1.94,
+          "amount_yi": 26.8,
+          "turnover": 2.23,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "时代新材",
+          "leader_pct": 0.1
+        },
+        {
+          "name": "出版",
+          "pct": -1.81,
+          "amount_yi": 157.7,
+          "turnover": 3.94,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "新华传媒",
+          "leader_pct": 2.77
+        }
+      ],
+      "n": 124,
+      "src": "腾讯证券板块排行（proxy.finance.qq.com）",
+      "excluded": []
+    },
+    "concept": {
+      "leaders": [
+        {
+          "name": "物理AI",
+          "pct": 7.14,
+          "amount_yi": 51.5,
+          "turnover": 3.15,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "凡拓数创",
+          "leader_pct": 20.0
+        },
+        {
+          "name": "华为机器人",
+          "pct": 5.31,
+          "amount_yi": 12.3,
+          "turnover": 2.32,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "兆威机电",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "微软合作伙伴",
+          "pct": 4.74,
+          "amount_yi": 17.4,
+          "turnover": 1.46,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "海天瑞声",
+          "leader_pct": 12.38
+        },
+        {
+          "name": "空心杯电机",
+          "pct": 4.1,
+          "amount_yi": 10.0,
+          "turnover": 3.15,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "鸣志电器",
+          "leader_pct": 7.05
+        },
+        {
+          "name": "机器人执行器概念",
+          "pct": 4.08,
+          "amount_yi": 87.2,
+          "turnover": 1.93,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "步科股份",
+          "leader_pct": 9.41
+        },
+        {
+          "name": "中兵系",
+          "pct": 3.58,
+          "amount_yi": 101.5,
+          "turnover": 2.73,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "东安动力",
+          "leader_pct": 10.05
+        },
+        {
+          "name": "印巴冲突概念",
+          "pct": 3.15,
+          "amount_yi": 93.6,
+          "turnover": 3.74,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "北方导航",
+          "leader_pct": 8.33
+        },
+        {
+          "name": "新质战斗力",
+          "pct": 2.87,
+          "amount_yi": 81.3,
+          "turnover": 2.1,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "北方导航",
+          "leader_pct": 8.33
+        },
+        {
+          "name": "无人战机",
+          "pct": 2.66,
+          "amount_yi": 57.8,
+          "turnover": 3.19,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "晶品特装",
+          "leader_pct": 6.26
+        },
+        {
+          "name": "PTFE概念",
+          "pct": 2.54,
+          "amount_yi": 120.5,
+          "turnover": 1.94,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "肯特股份",
+          "leader_pct": 19.99
+        }
+      ],
+      "laggards": [
+        {
+          "name": "肿瘤疫苗",
+          "pct": -3.52,
+          "amount_yi": 43.6,
+          "turnover": 7.87,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "智飞生物",
+          "leader_pct": -0.72
+        },
+        {
+          "name": "长鑫存储",
+          "pct": -3.41,
+          "amount_yi": 576.4,
+          "turnover": 4.96,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "安集科技",
+          "leader_pct": 0.5
+        },
+        {
+          "name": "锗镓概念",
+          "pct": -2.82,
+          "amount_yi": 59.4,
+          "turnover": 1.4,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "驰宏锌锗",
+          "leader_pct": -0.5
+        },
+        {
+          "name": "黄酒概念",
+          "pct": -2.75,
+          "amount_yi": 11.9,
+          "turnover": 3.2,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "广东明珠",
+          "leader_pct": -0.91
+        },
+        {
+          "name": "农垦",
+          "pct": -2.58,
+          "amount_yi": 3.2,
+          "turnover": 1.78,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "光明乳业",
+          "leader_pct": -0.58
+        },
+        {
+          "name": "马彩概念",
+          "pct": -2.57,
+          "amount_yi": 31.1,
+          "turnover": 2.26,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "永泰能源",
+          "leader_pct": 0.0
+        },
+        {
+          "name": "氦气",
+          "pct": -2.49,
+          "amount_yi": 59.8,
+          "turnover": 2.22,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "广汇能源",
+          "leader_pct": 1.13
+        },
+        {
+          "name": "乳业",
+          "pct": -2.45,
+          "amount_yi": 87.9,
+          "turnover": 2.02,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "新乳业",
+          "leader_pct": 3.26
+        },
+        {
+          "name": "博通概念",
+          "pct": -2.39,
+          "amount_yi": 133.0,
+          "turnover": 2.19,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "沃尔核材",
+          "leader_pct": 1.05
+        },
+        {
+          "name": "希音合作商",
+          "pct": -2.38,
+          "amount_yi": 24.5,
+          "turnover": 6.87,
+          "up": null,
+          "down": null,
+          "n": null,
+          "leader": "伟星股份",
+          "leader_pct": 3.4
+        }
+      ],
+      "n": 773,
+      "src": "腾讯证券板块排行（proxy.finance.qq.com）",
+      "excluded": []
+    }
+  },
+  "overview": {
+    "n": 5564,
+    "n_up": 2275,
+    "n_down": 3129,
+    "n_flat": 160,
+    "limit_up": 50,
+    "limit_down": 27,
+    "zt_pool": 46,
+    "dt_pool": 22,
+    "amount": 14488.0,
+    "n_anomalies": 181,
+    "indices": [
+      {
+        "name": "上证指数",
+        "close": 3730.92,
+        "pct": 0.39,
+        "amount_yi": 6870.1
+      },
+      {
+        "name": "深证成指",
+        "close": 11817.42,
+        "pct": 0.13,
+        "amount_yi": 7505.0
+      },
+      {
+        "name": "创业板指",
+        "close": 2746.29,
+        "pct": -0.94,
+        "amount_yi": 3563.0
+      },
+      {
+        "name": "科创50",
+        "close": 1329.19,
+        "pct": -2.17,
+        "amount_yi": 687.0
+      },
+      {
+        "name": "沪深300",
+        "close": 4174.53,
+        "pct": 0.09,
+        "amount_yi": 3634.5
+      },
+      {
+        "name": "北证50",
+        "close": 946.15,
+        "pct": -0.41,
+        "amount_yi": 114.6
+      }
+    ]
+  },
+  "anomalies": [
+    {
+      "code": "002889",
+      "name": "东方嘉盛",
+      "pct": 9.99,
+      "vol_ratio": 11.38,
+      "vr5": 11.38,
+      "turnover": 20.48,
+      "amount_yi": 7.77,
+      "types": [
+        "涨停(3连板)",
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 121.2,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-17",
+          "title": "公告 2026-10-17 东方嘉盛:股票交易异常波动公告 （交易所公告） https://data.eastmoney.com/notices/detail/002889/AN202610161830618206.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/002889/AN202610161830618206.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 18:46",
+          "title": "新闻 2026-10-19 18:46 揭秘涨停 | 002889、003029，连收3个涨停板：从连续涨停天数来看，东方嘉盛002889、吉大正元(003029)连收3个涨停板，连续涨停板数量居前。以封单金额计算，亨通光电、保隆科技、海正",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900028730.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-16",
+          "title": "公告 2026-10-16 东方嘉盛:2026年第二次临时股东会决议公告 （交易所公告） https://data.eastmoney.com/notices/detail/002889/AN202610151830521652.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/002889/AN202610151830521652.html"
+        }
+      ]
+    },
+    {
+      "code": "300411",
+      "name": "金盾股份",
+      "pct": 14.38,
+      "vol_ratio": 7.84,
+      "vr5": 7.84,
+      "turnover": 29.45,
+      "amount_yi": 9.73,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 117.2,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-19",
+          "title": "公告 2026-10-19 金盾股份:关于股票交易异常波动暨风险提示公告 （交易所公告） https://data.eastmoney.com/notices/detail/300411/AN202610191830688034.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/300411/AN202610191830688034.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 20:46",
+          "title": "新闻 2026-10-19 20:46 金盾股份发布交易异动公告 提示低空涵道推进器业务尚处产业化早期阶段：10月19日，金盾股份（300411.SZ）发布公告称，公司股票于10月16日、10月19日连续两个交易日收盘价格涨幅偏离值累计超过",
+          "summary": null,
+          "src": "央广财经",
+          "url": "http://finance.eastmoney.com/a/202610193900106235.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 18:39",
+          "title": "新闻 2026-10-19 18:39 金盾股份：低空涵道推进器业务尚未形成规模化收入：人民财讯10月19日电，金盾股份30041110月19日发布股票交易异常波动暨风险提示公告称，近期市场对低空经济概念关注度较高，公司主营高端智能通风系统",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900019237.html"
+        }
+      ]
+    },
+    {
+      "code": "000576",
+      "name": "甘化科工",
+      "pct": 10.03,
+      "vol_ratio": 4.76,
+      "vr5": 4.76,
+      "turnover": 13.42,
+      "amount_yi": 5.55,
+      "types": [
+        "涨停(2连板)",
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 92.5,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 甘化科工:股票交易异常波动公告 （交易所公告） https://data.eastmoney.com/notices/detail/000576/AN202610191830685509.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/000576/AN202610191830685509.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 甘化科工000576龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，甘化科工因成为连续三个交易日内，涨幅偏离值累计达到20%的证券上榜。甘化科工当日收报9.65元，涨跌幅",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899923989.html"
+        }
+      ]
+    },
+    {
+      "code": "600825",
+      "name": "新华传媒",
+      "pct": 2.77,
+      "vol_ratio": 11.04,
+      "vr5": 11.04,
+      "turnover": 25.61,
+      "amount_yi": 39.96,
+      "types": [
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 90.8,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-19",
+          "title": "公告 2026-10-19 新华传媒:股票交易风险提示公告 （交易所公告） https://data.eastmoney.com/notices/detail/600825/AN202610181830659957.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/600825/AN202610181830659957.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:57",
+          "title": "新闻 2026-10-19 16:57 新华传媒600825龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，新华传媒因成为有价格涨跌幅限制的日换手率达到20%的前五只证券上榜。新华传媒当日收报15.58元，涨跌",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899952354.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-19",
+          "title": "公告 2026-10-19 新华传媒:关于发行股份购买资产暨关联交易事项的进展公告 （交易所公告） https://data.eastmoney.com/notices/detail/600825/AN202610181830659958.",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/600825/AN202610181830659958.html"
+        }
+      ]
+    },
+    {
+      "code": "300096",
+      "name": "易联众",
+      "pct": 13.61,
+      "vol_ratio": 5.72,
+      "vr5": 5.72,
+      "turnover": 8.51,
+      "amount_yi": 3.75,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 90.4,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 10:28",
+          "title": "新闻 2026-10-19 10:28 直线拉升！300096，20cm涨停：【导读】A股三大指数集体走低，数据要素概念股震荡走强，易联众实现20cm涨停 一起来看下最新的市场情况及资讯。 10月19日早盘，A股三大指数集体走低，创业板指跌",
+          "summary": null,
+          "src": "中国基金报",
+          "url": "http://finance.eastmoney.com/a/202610193899651238.html"
+        }
+      ]
+    },
+    {
+      "code": "002343",
+      "name": "慈文传媒",
+      "pct": 9.97,
+      "vol_ratio": 2.72,
+      "vr5": 2.72,
+      "turnover": 46.52,
+      "amount_yi": 21.01,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 89.3,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 慈文传媒:关于股票交易异常波动的公告 （交易所公告） https://data.eastmoney.com/notices/detail/002343/AN202610191830690440.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/002343/AN202610191830690440.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 慈文传媒002343龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，慈文传媒因成为日涨幅偏离值达到7%的前5只证券、日振幅值达到15%的前5只证券、日换手率达到20%的前",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899922765.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-16",
+          "title": "公告 2026-10-16 慈文传媒:关于全资子公司为公司提供担保的进展公告 （交易所公告） https://data.eastmoney.com/notices/detail/002343/AN202610151830525036.htm",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/002343/AN202610151830525036.html"
+        }
+      ]
+    },
+    {
+      "code": "301666",
+      "name": "大普微-UW",
+      "pct": 20.0,
+      "vol_ratio": 2.51,
+      "vr5": 2.51,
+      "turnover": 21.83,
+      "amount_yi": 23.13,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 86.8,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 大普微301666龙虎榜数据10-19)：交易所2026年10月19日公布的交易公开信息显示，大普微因成为日涨幅达到15%的前5只证券上榜。大普微当日收报328.51元，涨跌幅20.00%，偏离值20",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899923479.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 11:17",
+          "title": "新闻 2026-10-19 11:17 猛拉！千亿龙头301666，20%涨停：【导读】A股芯片板块部分回暖，大普微实现20%涨停 中国基金报记者张舟 10月19日上午，A股芯片板块部分回暖。大普微股价20%涨停，现报328.51元/股，买",
+          "summary": null,
+          "src": "中国基金报",
+          "url": "http://finance.eastmoney.com/a/202610193899730683.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 17:10",
+          "title": "新闻 2026-10-19 17:10 10月19日龙虎榜净买入额前10个股：南财智讯10月19日电，盘后数据显示，因当日异动登上龙虎榜的个股中，资金净买入最多的前三位分别是慈文传媒(002343.SZ)、大普微301666.SZ)与宇树科",
+          "summary": null,
+          "src": "南方财经网",
+          "url": "http://finance.eastmoney.com/a/202610193899971981.html"
+        }
+      ]
+    },
+    {
+      "code": "300798",
+      "name": "锦鸡股份",
+      "pct": 19.95,
+      "vol_ratio": 2.45,
+      "vr5": 2.45,
+      "turnover": 22.68,
+      "amount_yi": 7.86,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 86.6,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 锦鸡股份300798龙虎榜数据(10-19：交易所2026年10月19日公布的交易公开信息显示，锦鸡股份因成为日涨幅达到15%的前5只证券上榜。锦鸡股份当日收报9.2元，涨跌幅19.95%，偏离值20",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899921747.html"
+        }
+      ]
+    },
+    {
+      "code": "002626",
+      "name": "金达威",
+      "pct": 9.99,
+      "vol_ratio": 4.27,
+      "vr5": 4.27,
+      "turnover": 5.83,
+      "amount_yi": 6.5,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 85.5,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 金达威:关于部分募投项目结项、变更募集资金用途及调整内部投资结构的公告 （交易所公告） https://data.eastmoney.com/notices/detail/002626/AN20261019183",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/002626/AN202610191830688475.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 金达威002626龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，金达威因成为连续三个交易日内，涨幅偏离值累计达到20%的证券上榜。金达威当日收报18.38元，涨跌幅9.",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899922646.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 金达威:董事会议事规则(2026年10月) （交易所公告） https://data.eastmoney.com/notices/detail/002626/AN202610191830688472.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/002626/AN202610191830688472.html"
+        }
+      ]
+    },
+    {
+      "code": "002933",
+      "name": "新兴装备",
+      "pct": 3.5,
+      "vol_ratio": 7.84,
+      "vr5": 7.84,
+      "turnover": 10.61,
+      "amount_yi": 3.63,
+      "types": [
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 85.0,
+      "news": []
+    },
+    {
+      "code": "600329",
+      "name": "达仁堂",
+      "pct": 10.0,
+      "vol_ratio": 4.58,
+      "vr5": 4.58,
+      "turnover": 2.31,
+      "amount_yi": 5.24,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 83.6,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 达仁堂:达仁堂关于召开2026年第二次临时股东会的提示性公告 （交易所公告） https://data.eastmoney.com/notices/detail/600329/AN2026101918306806",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/600329/AN202610191830680668.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-16",
+          "title": "公告 2026-10-16 达仁堂:达仁堂2026年第二次临时股东会会议资料 （交易所公告） https://data.eastmoney.com/notices/detail/600329/AN202610151830507675.htm",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/600329/AN202610151830507675.html"
+        }
+      ]
+    },
+    {
+      "code": "301591",
+      "name": "肯特股份",
+      "pct": 19.99,
+      "vol_ratio": 1.46,
+      "vr5": 1.46,
+      "turnover": 34.21,
+      "amount_yi": 6.59,
+      "types": [
+        "涨停",
+        "异常高换手"
+      ],
+      "strength": 80.3,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 肯特股份301591龙虎榜数据10-19：交易所2026年10月19日公布的交易公开信息显示，肯特股份因成为日换手率达到30%的前5只证券、日涨幅达到15%的前5只证券上榜。肯特股份当日收报47.47",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899921947.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 17:24",
+          "title": "新闻 2026-10-19 17:24 10月19日A股收评：沪指涨0.39% 人形机器人概念股集体走强：PCB板块多股涨停，四会富仕（300852.SZ）、肯特股份（301591 （央广财经） http://finance.eastmon",
+          "summary": null,
+          "src": "央广财经",
+          "url": "http://finance.eastmoney.com/a/202610193899979048.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 14:22",
+          "title": "新闻 2026-10-19 14:22 预喜率达100%！002134，午后上演“地天板”：当日，PCB概念盘中集体回暖，肯特股份301591.SZ)、协和电子(605258.SH)、沃特股份(002886.SZ)涨停，四会富仕(30085",
+          "summary": null,
+          "src": "华夏时报",
+          "url": "http://finance.eastmoney.com/a/202610193899833739.html"
+        }
+      ]
+    },
+    {
+      "code": "301313",
+      "name": "凡拓数创",
+      "pct": 20.0,
+      "vol_ratio": 1.45,
+      "vr5": 1.45,
+      "turnover": 31.98,
+      "amount_yi": 8.67,
+      "types": [
+        "涨停",
+        "异常高换手"
+      ],
+      "strength": 79.4,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 凡拓数创301313龙虎榜数据10-19)：交易所2026年10月19日公布的交易公开信息显示，凡拓数创因成为日涨幅达到15%的前5只证券、日换手率达到30%的前5只证券上榜。凡拓数创当日收报39元，",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899921647.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 19:54",
+          "title": "新闻 2026-10-19 19:54 慈文传媒净流入2.16亿元居榜首，游资抢筹AI、云游戏板块：（席位净流入资金最高股票的买入卖出席位榜单） 此外，涨幅最高的股票是凡拓数创（301313.SZ），席位净买入金额为6015.47万元，收盘",
+          "summary": null,
+          "src": "21世纪经济报道",
+          "url": "http://finance.eastmoney.com/a/202610193900058175.html"
+        }
+      ]
+    },
+    {
+      "code": "688507",
+      "name": "索辰科技",
+      "pct": 20.0,
+      "vol_ratio": 2.02,
+      "vr5": 2.02,
+      "turnover": 14.98,
+      "amount_yi": 9.64,
+      "types": [
+        "涨停",
+        "放量大涨"
+      ],
+      "strength": 77.1,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-16",
+          "title": "公告 2026-10-16 索辰科技:2026年半年度权益分派实施公告 （交易所公告） https://data.eastmoney.com/notices/detail/688507/AN202610151830536321.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/688507/AN202610151830536321.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 22:09",
+          "title": "新闻 2026-10-19 22:09 索辰科技龙虎榜数据（10月19日）：10月19日索辰科技688507收盘价143.30元，收盘涨停，全天换手率14.98%，振幅23.00%，成交额9.64亿元。科创板交易公开信息显示，当日该股因日收",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900214484.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-16",
+          "title": "公告 2026-10-16 索辰科技:国泰海通证券股份有限公司关于上海索辰信息科技股份有限公司差异化权益分派除权除息事项的核查意见 （交易所公告） https://data.eastmoney.com/notices/detail/6885",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/688507/AN202610151830536320.html"
+        }
+      ]
+    },
+    {
+      "code": "300852",
+      "name": "四会富仕",
+      "pct": 19.99,
+      "vol_ratio": 1.9,
+      "vr5": 1.9,
+      "turnover": 17.12,
+      "amount_yi": 19.55,
+      "types": [
+        "涨停"
+      ],
+      "strength": 74.0,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-19",
+          "title": "公告 2026-10-19 四会富仕:四会富仕电子科技股份有限公司投资者关系活动记录表 （交易所公告） https://data.eastmoney.com/notices/detail/300852/AN20261019183068874",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/300852/AN202610191830688743.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 四会富仕300852龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，四会富仕因成为日涨幅达到15%的前5只证券上榜。四会富仕当日收报76.94元，涨跌幅19.99%，偏离",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899922427.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-10-17",
+          "title": "公告 2026-10-17 四会富仕:北京观韬(深圳)律师事务所关于四会富仕电子科技股份有限公司2026年限制性股票激励计划调整暨首次授予事项的法律意见书 （交易所公告） https://data.eastmoney.com/notices",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/300852/AN202610161830621648.html"
+        }
+      ]
+    },
+    {
+      "code": "688836",
+      "name": "宇树科技",
+      "pct": 16.15,
+      "vol_ratio": 3.2,
+      "vr5": 3.2,
+      "turnover": 21.89,
+      "amount_yi": 30.89,
+      "types": [
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 69.6,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 22:09",
+          "title": "新闻 2026-10-19 22:09 宇树科技-W龙虎榜：营业部净买入1.82亿元：10月19日宇树科技-W688836收盘价495.92元，收盘上涨16.15%，全天换手率21.89%，振幅19.20%，成交额30.89亿元。科创板交易",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900214576.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 19:14",
+          "title": "新闻 2026-10-19 19:14 宇树科技市值重回2000亿，10月还有两件大事受到市场关注：红星资本局10月19日消息 19日午后，人形机器人龙头宇树科技（688836.SH）持续反弹，涨幅超16%，总市值重返2000亿上方。 截至",
+          "summary": null,
+          "src": "红星资本局",
+          "url": "http://finance.eastmoney.com/a/202610193900033945.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:55",
+          "title": "新闻 2026-10-19 16:55 宇树科技688836龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，宇树科技因成为有价格涨跌幅限制的日收盘价格涨幅达到15%的前五只证券上榜。宇树科技当日收报495.92",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899948642.html"
+        }
+      ]
+    },
+    {
+      "code": "603348",
+      "name": "文灿股份",
+      "pct": 9.99,
+      "vol_ratio": 2.75,
+      "vr5": 2.75,
+      "turnover": 2.98,
+      "amount_yi": 1.57,
+      "types": [
+        "涨停(2连板)",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 69.2,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 文灿股份:股票交易异常波动公告 （交易所公告） https://data.eastmoney.com/notices/detail/603348/AN202610191830686696.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/603348/AN202610191830686696.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:57",
+          "title": "新闻 2026-10-19 16:57 文灿股份603348龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，文灿股份因成为非S证券连续三个交易日内收盘价格涨幅偏离值累计达到20%的证券上榜。文灿股份当日收报16",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899951443.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 19:54",
+          "title": "新闻 2026-10-19 19:54 50只股涨停，算力租赁概念最为活跃，吉大正元录得最高3连板：成分股涨停数最多的主题是汽车零部件，有8只个股涨停，分别为东安动力（600178.SH）、长春一东（600148.SH）、保隆科技（6031",
+          "summary": null,
+          "src": "21世纪经济报道",
+          "url": "http://finance.eastmoney.com/a/202610193900058070.html"
+        }
+      ]
+    },
+    {
+      "code": "300916",
+      "name": "朗特智能",
+      "pct": 15.2,
+      "vol_ratio": 2.7,
+      "vr5": 2.7,
+      "turnover": 12.27,
+      "amount_yi": 3.92,
+      "types": [
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 67.9,
+      "news": []
+    },
+    {
+      "code": "002696",
+      "name": "百洋股份",
+      "pct": -10.04,
+      "vol_ratio": 2.15,
+      "vr5": 2.15,
+      "turnover": 27.94,
+      "amount_yi": 8.46,
+      "types": [
+        "跌停",
+        "放量大跌",
+        "异常高换手"
+      ],
+      "strength": 66.4,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 百洋股份002696龙虎榜数据(10-19：交易所2026年10月19日公布的交易公开信息显示，百洋股份因成为日换手率达到20%的前5只证券、日跌幅偏离值达到7%的前5只证券上榜。百洋股份当日收报8.",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899924332.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-16 16:26",
+          "title": "新闻 2026-10-16 16:26 百洋股份002696龙虎榜数据(10-16：交易所2026年10月16日公布的交易公开信息显示，百洋股份因成为日跌幅偏离值达到7%的前5只证券上榜。百洋股份当日收报9.66元，涨跌幅-9.97%，偏离",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610163898408671.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-16 16:10",
+          "title": "新闻 2026-10-16 16:10 5连板大牛股002696，尾盘跌停！：10月16日，5连板大牛股百洋股份临近尾盘跌停，截至收盘，报9.66元，成交额近9亿元，换手率27%，总市值33.4亿元。 消息面上，据世界气象组织、国家海洋环境",
+          "summary": null,
+          "src": "华夏时报",
+          "url": "http://finance.eastmoney.com/a/202610163898401761.html"
+        }
+      ]
+    },
+    {
+      "code": "301119",
+      "name": "正强股份",
+      "pct": 20.01,
+      "vol_ratio": 1.36,
+      "vr5": 1.36,
+      "turnover": 6.47,
+      "amount_yi": 2.36,
+      "types": [
+        "涨停"
+      ],
+      "strength": 65.5,
+      "news": []
+    },
+    {
+      "code": "000860",
+      "name": "顺鑫农业",
+      "pct": 6.92,
+      "vol_ratio": 5.27,
+      "vr5": 5.27,
+      "turnover": 5.44,
+      "amount_yi": 4.44,
+      "types": [
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 61.2,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-17",
+          "title": "公告 2026-10-17 顺鑫农业:关于2026年度第一期中期票据发行结果的公告 （交易所公告） https://data.eastmoney.com/notices/detail/000860/AN202610161830617003.",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/000860/AN202610161830617003.html"
+        }
+      ]
+    },
+    {
+      "code": "603999",
+      "name": "读者传媒",
+      "pct": -10.02,
+      "vol_ratio": 2.73,
+      "vr5": 2.73,
+      "turnover": 9.83,
+      "amount_yi": 4.31,
+      "types": [
+        "跌停",
+        "放量大跌"
+      ],
+      "strength": 60.8,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-17",
+          "title": "公告 2026-10-17 读者传媒:读者出版传媒股份有限公司股票交易异常波动公告 （交易所公告） https://data.eastmoney.com/notices/detail/603999/AN202610161830620261.",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/603999/AN202610161830620261.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 18:52",
+          "title": "新闻 2026-10-19 18:52 读者传媒龙虎榜数据（10月19日）：读者传媒603999今日跌停，全天换手率9.83%，成交额4.31亿元，振幅5.44%。龙虎榜数据显示，机构净卖出4505.80万元，营业部席位合计净卖出2155.",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900022724.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:57",
+          "title": "新闻 2026-10-19 16:57 读者传媒603999龙虎榜数据(10-19：交易所2026年10月19日公布的交易公开信息显示，读者传媒因成为有价格涨跌幅限制的日收盘价格跌幅偏离值达到7%的前五只证券上榜。读者传媒当日收报7.54元",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899951043.html"
+        }
+      ]
+    },
+    {
+      "code": "601778",
+      "name": "晶科科技",
+      "pct": 10.15,
+      "vol_ratio": 2.87,
+      "vr5": 2.87,
+      "turnover": 5.37,
+      "amount_yi": 6.92,
+      "types": [
+        "涨停",
+        "放量大涨"
+      ],
+      "strength": 60.4,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 18:52",
+          "title": "新闻 2026-10-19 18:52 晶科科技10月19日龙虎榜数据：晶科科技601778今日涨停，全天换手率5.37%，成交额6.92亿元，振幅9.82%。龙虎榜数据显示，营业部席位合计净买入3952.52万元。 上交所公开信息显示，当",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900022835.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:57",
+          "title": "新闻 2026-10-19 16:57 晶科科技601778龙虎榜数据10-19)：交易所2026年10月19日公布的交易公开信息显示，晶科科技因成为有价格涨跌幅限制的日收盘价格涨幅偏离值达到7%的前五只证券上榜。晶科科技当日收报3.58元",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899950940.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 17:24",
+          "title": "新闻 2026-10-19 17:24 10月19日A股收评：沪指涨0.39% 人形机器人概念股集体走强：电力板块同样上行，江苏新能（603693.SH）、浙江新能（600032.SH）、晶科科技（601778 （央广财经） http://",
+          "summary": null,
+          "src": "央广财经",
+          "url": "http://finance.eastmoney.com/a/202610193899979048.html"
+        }
+      ]
+    },
+    {
+      "code": "600435",
+      "name": "北方导航",
+      "pct": 8.33,
+      "vol_ratio": 3.44,
+      "vr5": 3.44,
+      "turnover": 5.63,
+      "amount_yi": 10.7,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 60.4,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 17:30",
+          "title": "新闻 2026-10-19 17:30 国防军工行业资金流入榜：航发动力、北方导航等净流入资金居前：（数据宝） 国防军工行业资金流入榜 代码 简称 今日涨跌幅（%） 今日换手率（%） 主力资金流量（万元） 600893 航发动力 1.54 ",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193899986645.html"
+        }
+      ]
+    },
+    {
+      "code": "002767",
+      "name": "先锋电子",
+      "pct": -6.71,
+      "vol_ratio": 4.84,
+      "vr5": 4.84,
+      "turnover": 12.44,
+      "amount_yi": 2.86,
+      "types": [
+        "放量大跌",
+        "异常高换手"
+      ],
+      "strength": 60.1,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:26",
+          "title": "新闻 2026-10-19 16:26 先锋电子002767龙虎榜数据(10-19)：交易所2026年10月19日公布的交易公开信息显示，先锋电子因成为日振幅值达到15%的前5只证券上榜。先锋电子当日收报16.83元，涨跌幅-6.71%，偏",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899922220.html"
+        }
+      ]
+    },
+    {
+      "code": "603278",
+      "name": "大业股份",
+      "pct": 9.99,
+      "vol_ratio": 2.4,
+      "vr5": 2.4,
+      "turnover": 14.04,
+      "amount_yi": 4.89,
+      "types": [
+        "涨停(2连板)",
+        "放量大涨"
+      ],
+      "strength": 59.8,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 大业股份:大业股份股票交易异常波动公告 （交易所公告） https://data.eastmoney.com/notices/detail/603278/AN202610191830682073.html",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/603278/AN202610191830682073.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 20:40",
+          "title": "新闻 2026-10-19 20:40 两连板大业股份发布异动公告：不存在应披露而未披露的重大信息：10月19日，录得两连板的大业股份（603278.SH）发布股票交易异常波动公告称，经核查，公司目前生产经营情况正常，内外部经营环境未发生重",
+          "summary": null,
+          "src": "央广财经",
+          "url": "http://finance.eastmoney.com/a/202610193900100528.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 19:45",
+          "title": "新闻 2026-10-19 19:45 2连板大业股份：不存在应披露而未披露重大信息：每经AI快讯，2连板大业股份60327810月19日发布股票交易异常波动公告称，经核查，公司目前生产经营情况正常，内外部经营环境未发生重大调整。 （每日经",
+          "summary": null,
+          "src": "每日经济新闻",
+          "url": "http://finance.eastmoney.com/a/202610193900053897.html"
+        }
+      ]
+    },
+    {
+      "code": "001358",
+      "name": "兴欣新材",
+      "pct": -8.27,
+      "vol_ratio": 4.41,
+      "vr5": 4.41,
+      "turnover": 11.84,
+      "amount_yi": 1.38,
+      "types": [
+        "放量大跌",
+        "异常高换手"
+      ],
+      "strength": 59.5,
+      "news": []
+    },
+    {
+      "code": "603168",
+      "name": "莎普爱思",
+      "pct": -6.73,
+      "vol_ratio": 4.78,
+      "vr5": 4.78,
+      "turnover": 11.65,
+      "amount_yi": 2.54,
+      "types": [
+        "放量大跌",
+        "异常高换手"
+      ],
+      "strength": 59.3,
+      "news": [
+        {
+          "kind": "新闻",
+          "date": "2026-10-16 20:46",
+          "title": "新闻 2026-10-16 20:46 莎普爱思10月16日龙虎榜数据：莎普爱思603168今日涨停，全天换手率6.29%，成交额1.44亿元，振幅9.09%。龙虎榜数据显示，机构净卖出2948.57万元，营业部席位合计净买入2600.35",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610163898608066.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-16 16:57",
+          "title": "新闻 2026-10-16 16:57 莎普爱思603168龙虎榜数据10-16：交易所2026年10月16日公布的交易公开信息显示，莎普爱思因成为有价格涨跌幅限制的日收盘价格涨幅偏离值达到7%的前五只证券上榜。莎普爱思当日收报6.24元，",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610163898425355.html"
+        }
+      ]
+    },
+    {
+      "code": "300911",
+      "name": "亿田智能",
+      "pct": 18.34,
+      "vol_ratio": 2.13,
+      "vr5": 2.13,
+      "turnover": 13.56,
+      "amount_yi": 6.98,
+      "types": [
+        "放量大涨"
+      ],
+      "strength": 59.1,
+      "news": []
+    },
+    {
+      "code": "600178",
+      "name": "东安动力",
+      "pct": 10.05,
+      "vol_ratio": 1.72,
+      "vr5": 1.72,
+      "turnover": 3.36,
+      "amount_yi": 1.76,
+      "types": [
+        "涨停(2连板)",
+        "放量突破60日新高"
+      ],
+      "strength": 58.2,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-10-20",
+          "title": "公告 2026-10-20 东安动力:哈尔滨东安汽车动力股份有限公司股票交易异常波动公告 （交易所公告） https://data.eastmoney.com/notices/detail/600178/AN2026101918306894",
+          "summary": null,
+          "src": "交易所公告",
+          "url": "https://data.eastmoney.com/notices/detail/600178/AN202610191830689476.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 18:52",
+          "title": "新闻 2026-10-19 18:52 东安动力龙虎榜数据（10月19日）：东安动力600178今日涨停，全天换手率3.36%，成交额1.76亿元，振幅2.64%。龙虎榜数据显示，营业部席位合计净卖出306.11万元。 上交所公开信息显示，",
+          "summary": null,
+          "src": "证券时报网",
+          "url": "http://finance.eastmoney.com/a/202610193900025581.html"
+        },
+        {
+          "kind": "新闻",
+          "date": "2026-10-19 16:57",
+          "title": "新闻 2026-10-19 16:57 东安动力600178龙虎榜数据10-19)：交易所2026年10月19日公布的交易公开信息显示，东安动力因成为有价格涨跌幅限制的日收盘价格涨幅偏离值达到7%的前五只证券、非S证券连续三个交易日内收盘价",
+          "summary": null,
+          "src": "东方财富Choice数据",
+          "url": "http://finance.eastmoney.com/a/202610193899951333.html"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "行情日期核验：腾讯行情快照中 {'20261019': 5575} 只股票时间戳为 20261019（上一交易日收盘）；停牌/无成交股票已剔除。",
+    "股票池来源：exchange lists (akshare stock_info_a_code_name)；行情快照：腾讯 qt.gtimg.cn；日K线：东方财富 push2his（前复权，失败时回退腾讯日K，本次回退 711 只，回退时换手率比值以成交量比值近似）。",
+    "涨跌停池：东方财富涨停池/跌停池（AKShare stock_zt_pool_em / stock_zt_pool_dtgc_em）；新闻：东方财富个股新闻（stock_news_em）；公告：东方财富公告接口（np-anotice-stock）。",
+    "已剔除 ST/*ST/退市整理股；上市不足20个交易日的次新股因换手/量比不具可比性，未纳入排名：001246 力勤资源、301569 C联亚药业、301660 C粤芯半导体-U、301686 中塑股份、301716 鸿富诚、601091 沈鼓集团、688837 信诺维、920002 万达轴承、920006 晟楠科技、920021 流金科技、920036 觅睿科技、920050 爱伦医疗、920058 华洋赛车、920060 万源通、920066 科拜尔、920071 金钛股份、920087 秋乐种业、920092 汉鑫科技、920098 科隆新材、920117 龙鑫智能、920157 宇特光电、920162 莫森泰克、920196 南方乳业、920201 百瑞吉、920202 安达股份、920211 新睿电子、920229 世纪数码、920230 欧康医药、920249 利尔达、920268 百迈科、920298 腾信精密、920339 恒太照明、920346 威贸电子、920367 新赣江、920415 恒拓开源、920429 康比特、920475 三友科技、920478 峆一药业、920510 丰光精密、920592 华信永道、920593 鼎智科技、920627 力王股份、920642 通易航天、920690 捷众科技、920699 海达尔、920748 路桥信息、920779 武汉蓝电、920786 骑士乳业、920873 中设咨询、920885 星辰科技、920895 花溪科技、920953 国子软件、920982 锦波生物。",
+    "市场情绪/板块（如有）：东财涨停/跌停/炸板/昨日涨停池（AKShare stock_zt_pool_*_em）；两市成交额=上证综指+深证成指成交额、平均换手率=中证全指换手率（东财指数日K）；融资余额：上交所/深交所（AKShare macro_china_market_margin_sh/sz）；10年国债：AKShare bond_zh_us_rate；沪深300 PE(TTM)：乐咕乐股（stock_index_pe_lg），股息率：中证指数公司；沪深300日线：腾讯；板块：东方财富板块行情/日K，回退同花顺/新浪。",
+    "新闻摘要为原文摘录（截取前约90字），非投资建议。"
+  ]
+}
