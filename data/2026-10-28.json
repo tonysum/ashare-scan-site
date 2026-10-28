@@ -150,10 +150,58 @@
       ]
     },
     "breadth": {
-      "score": null,
-      "label": "—",
+      "score": 6.6,
+      "label": "冰点",
       "color": null,
-      "components": [],
+      "components": [
+        {
+          "key": "upratio",
+          "name": "上涨家数占比",
+          "value": 10.9,
+          "unit": "%",
+          "extra": "涨606/跌4922（涨跌比0.12）",
+          "weight": 0.3,
+          "score": 2.9,
+          "n_hist": 7
+        },
+        {
+          "key": "amount",
+          "name": "两市成交额",
+          "value": 14610.0,
+          "unit": "亿",
+          "weight": 0.25,
+          "score": 2.8,
+          "n_hist": 249
+        },
+        {
+          "key": "turn",
+          "name": "平均换手率(中证全指)",
+          "value": 1.27,
+          "unit": "%",
+          "weight": 0.15,
+          "score": 2.8,
+          "n_hist": 249
+        },
+        {
+          "key": "margin",
+          "name": "融资余额(沪深)",
+          "value": 23893.0,
+          "unit": "亿",
+          "extra": "数据日 2026-10-26",
+          "weight": 0.15,
+          "score": 0.4,
+          "n_hist": 249
+        },
+        {
+          "key": "margin_chg",
+          "name": "融资余额日变动",
+          "value": -55.6,
+          "unit": "亿",
+          "weight": 0.15,
+          "score": 30.4,
+          "n_hist": 249
+        }
+      ],
       "history": []
     },
     "valuation": {
@@ -1875,5 +1923,7 @@
       ]
     }
   ],
-  "notes": []
+  "notes": [
+    "融资余额最新日期为 2026-10-26（2026-10-27 数据尚未发布）"
+  ]
 }
