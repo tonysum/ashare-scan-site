@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-11",
+    "data_date": "2026-11-10",
+    "short_score": 87.7,
+    "short_label": "高潮",
+    "breadth_score": 40.2,
+    "breadth_label": "中性",
+    "valuation_score": 42.6,
+    "valuation_label": "中性",
+    "n_anomalies": 207
+  },
+  {
     "date": "2026-11-10",
     "data_date": "2026-11-09",
     "short_score": 62.3,
