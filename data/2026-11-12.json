@@ -1,0 +1,1439 @@
+{
+  "meta": {
+    "date": "2026-11-12",
+    "data_date": "2026-11-11",
+    "generated_at": "2026-11-12 08:16",
+    "title": "A股盘前量价异动扫描 2026-11-12（基于2026-11-11行情）"
+  },
+  "sentiment": {
+    "short": {
+      "score": 67.4,
+      "label": "偏强",
+      "color": null,
+      "components": [
+        {
+          "key": "zt",
+          "name": "涨停家数",
+          "value": 85.0,
+          "unit": "家",
+          "weight": 0.2,
+          "score": 76.6,
+          "n_hist": 31
+        },
+        {
+          "key": "dt",
+          "name": "跌停家数",
+          "value": 0.0,
+          "unit": "家",
+          "weight": 0.15,
+          "score": 95.2,
+          "n_hist": 31
+        },
+        {
+          "key": "zbl",
+          "name": "炸板率",
+          "value": 18.27,
+          "unit": "%",
+          "weight": 0.15,
+          "score": 83.4,
+          "n_hist": 31
+        },
+        {
+          "key": "height",
+          "name": "最高连板",
+          "value": 4.0,
+          "unit": "板",
+          "weight": 0.15,
+          "score": 31.5,
+          "n_hist": 31
+        },
+        {
+          "key": "premium",
+          "name": "昨日涨停溢价",
+          "value": 2.925,
+          "unit": "%",
+          "weight": 0.2,
+          "score": 76.2,
+          "n_hist": 31
+        },
+        {
+          "key": "promo",
+          "name": "连板晋级率",
+          "value": 20.43,
+          "unit": "%",
+          "weight": 0.15,
+          "score": 35.2,
+          "n_hist": 31
+        }
+      ],
+      "history": [
+        {
+          "date": "20261015",
+          "score": 33.9
+        },
+        {
+          "date": "20261016",
+          "score": 43.9
+        },
+        {
+          "date": "20261019",
+          "score": 32.8
+        },
+        {
+          "date": "20261020",
+          "score": 54.6
+        },
+        {
+          "date": "20261021",
+          "score": 57.9
+        },
+        {
+          "date": "20261022",
+          "score": 17.3
+        },
+        {
+          "date": "20261023",
+          "score": 78.6
+        },
+        {
+          "date": "20261026",
+          "score": 43.5
+        },
+        {
+          "date": "20261027",
+          "score": 36.6
+        },
+        {
+          "date": "20261028",
+          "score": 50.7
+        },
+        {
+          "date": "20261029",
+          "score": 19.2
+        },
+        {
+          "date": "20261030",
+          "score": 29.0
+        },
+        {
+          "date": "20261102",
+          "score": 75.8
+        },
+        {
+          "date": "20261103",
+          "score": 31.4
+        },
+        {
+          "date": "20261104",
+          "score": 55.3
+        },
+        {
+          "date": "20261105",
+          "score": 61.2
+        },
+        {
+          "date": "20261106",
+          "score": 32.9
+        },
+        {
+          "date": "20261109",
+          "score": 62.3
+        },
+        {
+          "date": "20261110",
+          "score": 87.7
+        },
+        {
+          "date": "20261111",
+          "score": 67.4
+        }
+      ]
+    },
+    "breadth": {
+      "score": 36.8,
+      "label": "偏弱",
+      "color": null,
+      "components": [
+        {
+          "key": "upratio",
+          "name": "上涨家数占比",
+          "value": 63.5,
+          "unit": "%",
+          "extra": "涨3538/跌1827（涨跌比1.94）",
+          "weight": 0.3,
+          "score": 72.2,
+          "n_hist": 13
+        },
+        {
+          "key": "amount",
+          "name": "两市成交额",
+          "value": 16763.0,
+          "unit": "亿",
+          "weight": 0.25,
+          "score": 12.4,
+          "n_hist": 249
+        },
+        {
+          "key": "turn",
+          "name": "平均换手率(中证全指)",
+          "value": 1.36,
+          "unit": "%",
+          "weight": 0.15,
+          "score": 8.4,
+          "n_hist": 249
+        },
+        {
+          "key": "margin",
+          "name": "融资余额(沪深)",
+          "value": 22710.0,
+          "unit": "亿",
+          "extra": "数据日 2026-11-05",
+          "weight": 0.15,
+          "score": 1.2,
+          "n_hist": 249
+        },
+        {
+          "key": "margin_chg",
+          "name": "融资余额日变动",
+          "value": 66.2,
+          "unit": "亿",
+          "weight": 0.15,
+          "score": 70.4,
+          "n_hist": 249
+        }
+      ],
+      "history": []
+    },
+    "valuation": {
+      "score": 42.4,
+      "label": "中性",
+      "color": null,
+      "components": [
+        {
+          "key": "erp",
+          "name": "股债利差(沪深300)",
+          "value": 6.31,
+          "unit": "%",
+          "extra": "PE(TTM) 12.64 → 盈利收益率 7.91% − 10年国债 1.604%；近5年分位 44%（月末序列）；股息率 3.03%，股息率−国债 1.43%",
+          "weight": 0.4,
+          "score": 55.6,
+          "n_hist": 71
+        },
+        {
+          "key": "pe",
+          "name": "沪深300 PE(TTM)分位(5年)",
+          "value": 12.64,
+          "unit": "倍",
+          "extra": "近5年分位 75%",
+          "weight": 0.25,
+          "score": 75.0,
+          "n_hist": 71
+        },
+        {
+          "key": "pos",
+          "name": "沪深300 近3年点位分位",
+          "value": 4075.71,
+          "unit": "点",
+          "extra": "近1年分位 4%（3年区间 3159–5060）",
+          "weight": 0.35,
+          "score": 4.0,
+          "n_hist": 749
+        }
+      ],
+      "history": []
+    }
+  },
+  "sectors": {
+    "industry": {
+      "leaders": [
+        {
+          "name": "其他数字媒体",
+          "pct": 7.27,
+          "amount_yi": 42.2,
+          "turnover": 22.66,
+          "up": 2,
+          "down": 0,
+          "n": null,
+          "leader": "风语筑",
+          "leader_pct": 9.98
+        },
+        {
+          "name": "通信网络设备及器件",
+          "pct": 7.19,
+          "amount_yi": 1016.6,
+          "turnover": 4.01,
+          "up": 37,
+          "down": 1,
+          "n": null,
+          "leader": "宇特光电",
+          "leader_pct": 29.99
+        },
+        {
+          "name": "通信线缆及配套",
+          "pct": 6.04,
+          "amount_yi": 245.9,
+          "turnover": 6.82,
+          "up": 13,
+          "down": 1,
+          "n": null,
+          "leader": "华脉科技",
+          "leader_pct": 10.03
+        },
+        {
+          "name": "印制电路板",
+          "pct": 5.76,
+          "amount_yi": 856.7,
+          "turnover": 6.71,
+          "up": 48,
+          "down": 0,
+          "n": null,
+          "leader": "东山精密",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "元件",
+          "pct": 4.9,
+          "amount_yi": 982.1,
+          "turnover": 6.07,
+          "up": 66,
+          "down": 1,
+          "n": null,
+          "leader": "东山精密",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "其他能源发电",
+          "pct": 4.88,
+          "amount_yi": 1.7,
+          "turnover": 1.75,
+          "up": 1,
+          "down": 1,
+          "n": null,
+          "leader": "顺发恒能",
+          "leader_pct": 10.18
+        },
+        {
+          "name": "通信设备",
+          "pct": 4.82,
+          "amount_yi": 1402.6,
+          "turnover": 4.41,
+          "up": 87,
+          "down": 7,
+          "n": null,
+          "leader": "日海智能",
+          "leader_pct": 9.96
+        },
+        {
+          "name": "综合包装",
+          "pct": 4.61,
+          "amount_yi": 3.3,
+          "turnover": 2.36,
+          "up": 6,
+          "down": 0,
+          "n": null,
+          "leader": "康欣新材",
+          "leader_pct": 9.85
+        },
+        {
+          "name": "激光设备",
+          "pct": 4.48,
+          "amount_yi": 103.1,
+          "turnover": 4.36,
+          "up": 11,
+          "down": 1,
+          "n": null,
+          "leader": "杰普特",
+          "leader_pct": 14.91
+        },
+        {
+          "name": "集成电路封测",
+          "pct": 4.3,
+          "amount_yi": 137.3,
+          "turnover": 4.18,
+          "up": 13,
+          "down": 0,
+          "n": null,
+          "leader": "利扬芯片",
+          "leader_pct": 20.01
+        }
+      ],
+      "laggards": [
+        {
+          "name": "纺织鞋类制造",
+          "pct": -8.4,
+          "amount_yi": 7.0,
+          "turnover": 1.69,
+          "up": 0,
+          "down": 1,
+          "n": null,
+          "leader": "华利集团",
+          "leader_pct": -8.39
+        },
+        {
+          "name": "涂料",
+          "pct": -3.17,
+          "amount_yi": 1.6,
+          "turnover": 1.04,
+          "up": 0,
+          "down": 2,
+          "n": null,
+          "leader": "三棵树",
+          "leader_pct": -1.6
+        },
+        {
+          "name": "白酒Ⅲ",
+          "pct": -2.97,
+          "amount_yi": 142.7,
+          "turnover": 1.44,
+          "up": 0,
+          "down": 20,
+          "n": null,
+          "leader": "古井贡Ｂ",
+          "leader_pct": -0.93
+        },
+        {
+          "name": "光伏主材",
+          "pct": -2.69,
+          "amount_yi": 17.9,
+          "turnover": 1.25,
+          "up": 0,
+          "down": 2,
+          "n": null,
+          "leader": "通威股份",
+          "leader_pct": -2.01
+        },
+        {
+          "name": "水产饲料",
+          "pct": -2.13,
+          "amount_yi": 16.0,
+          "turnover": 3.83,
+          "up": 1,
+          "down": 3,
+          "n": null,
+          "leader": "天马科技",
+          "leader_pct": 2.6
+        },
+        {
+          "name": "烘焙食品",
+          "pct": -2.03,
+          "amount_yi": 20.1,
+          "turnover": 3.34,
+          "up": 2,
+          "down": 7,
+          "n": null,
+          "leader": "桂发祥",
+          "leader_pct": 3.34
+        },
+        {
+          "name": "其他家电Ⅲ",
+          "pct": -1.69,
+          "amount_yi": 6.4,
+          "turnover": 6.35,
+          "up": 2,
+          "down": 1,
+          "n": null,
+          "leader": "荣泰健康",
+          "leader_pct": 0.41
+        },
+        {
+          "name": "医美服务",
+          "pct": -1.68,
+          "amount_yi": 1.3,
+          "turnover": 0.86,
+          "up": 0,
+          "down": 2,
+          "n": null,
+          "leader": "*ST美谷",
+          "leader_pct": -1.0
+        },
+        {
+          "name": "航空运输",
+          "pct": -1.57,
+          "amount_yi": 22.5,
+          "turnover": 0.61,
+          "up": 1,
+          "down": 8,
+          "n": null,
+          "leader": "海控B股",
+          "leader_pct": 0.52
+        },
+        {
+          "name": "院线",
+          "pct": -1.57,
+          "amount_yi": 13.1,
+          "turnover": 3.35,
+          "up": 0,
+          "down": 4,
+          "n": null,
+          "leader": "横店影视",
+          "leader_pct": -0.5
+        }
+      ],
+      "n": 457,
+      "src": "东方财富板块行情（push2 clist）",
+      "excluded": []
+    },
+    "concept": {
+      "leaders": [
+        {
+          "name": "CPO概念",
+          "pct": 5.83,
+          "amount_yi": 2157.9,
+          "turnover": 3.24,
+          "up": 91,
+          "down": 8,
+          "n": null,
+          "leader": "剑桥科技",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "光通信模块",
+          "pct": 5.33,
+          "amount_yi": 2109.4,
+          "turnover": 4.7,
+          "up": 114,
+          "down": 9,
+          "n": null,
+          "leader": "青山纸业",
+          "leader_pct": 10.07
+        },
+        {
+          "name": "光纤概念",
+          "pct": 4.71,
+          "amount_yi": 1463.0,
+          "turnover": 2.32,
+          "up": 80,
+          "down": 10,
+          "n": null,
+          "leader": "华脉科技",
+          "leader_pct": 10.03
+        },
+        {
+          "name": "F5G概念",
+          "pct": 4.18,
+          "amount_yi": 642.1,
+          "turnover": 2.13,
+          "up": 22,
+          "down": 4,
+          "n": null,
+          "leader": "华脉科技",
+          "leader_pct": 10.03
+        },
+        {
+          "name": "铜缆高速连接",
+          "pct": 3.9,
+          "amount_yi": 329.2,
+          "turnover": 2.95,
+          "up": 36,
+          "down": 5,
+          "n": null,
+          "leader": "华脉科技",
+          "leader_pct": 10.03
+        },
+        {
+          "name": "噪声防治",
+          "pct": 3.84,
+          "amount_yi": 29.0,
+          "turnover": 3.3,
+          "up": 7,
+          "down": 2,
+          "n": null,
+          "leader": "德尔股份",
+          "leader_pct": 20.0
+        },
+        {
+          "name": "英伟达概念",
+          "pct": 3.81,
+          "amount_yi": 692.5,
+          "turnover": 3.13,
+          "up": 58,
+          "down": 7,
+          "n": null,
+          "leader": "景旺电子",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "科技风格",
+          "pct": 3.69,
+          "amount_yi": 3388.6,
+          "turnover": 1.66,
+          "up": 77,
+          "down": 22,
+          "n": null,
+          "leader": "剑桥科技",
+          "leader_pct": 10.0
+        },
+        {
+          "name": "PCB",
+          "pct": 3.58,
+          "amount_yi": 1732.6,
+          "turnover": 3.2,
+          "up": 191,
+          "down": 21,
+          "n": null,
+          "leader": "光洋股份",
+          "leader_pct": 10.01
+        },
+        {
+          "name": "高带宽内存",
+          "pct": 3.49,
+          "amount_yi": 352.1,
+          "turnover": 3.17,
+          "up": 28,
+          "down": 0,
+          "n": null,
+          "leader": "炬光科技",
+          "leader_pct": 10.14
+        }
+      ],
+      "laggards": [
+        {
+          "name": "酿酒概念",
+          "pct": -1.74,
+          "amount_yi": 162.5,
+          "turnover": 1.24,
+          "up": 8,
+          "down": 30,
+          "n": null,
+          "leader": "兰州黄河",
+          "leader_pct": 1.45
+        },
+        {
+          "name": "白酒",
+          "pct": -1.39,
+          "amount_yi": 177.8,
+          "turnover": 1.4,
+          "up": 11,
+          "down": 28,
+          "n": null,
+          "leader": "群兴玩具",
+          "leader_pct": 3.29
+        },
+        {
+          "name": "超级品牌",
+          "pct": -1.27,
+          "amount_yi": 233.8,
+          "turnover": 0.66,
+          "up": 4,
+          "down": 28,
+          "n": null,
+          "leader": "安孚科技",
+          "leader_pct": 3.36
+        },
+        {
+          "name": "乳业",
+          "pct": -1.19,
+          "amount_yi": 82.2,
+          "turnover": 2.03,
+          "up": 7,
+          "down": 26,
+          "n": null,
+          "leader": "科拓生物",
+          "leader_pct": 5.01
+        },
+        {
+          "name": "消费风格",
+          "pct": -0.97,
+          "amount_yi": 439.8,
+          "turnover": 0.99,
+          "up": 17,
+          "down": 83,
+          "n": null,
+          "leader": "海南橡胶",
+          "leader_pct": 4.45
+        },
+        {
+          "name": "特色药",
+          "pct": -0.95,
+          "amount_yi": 50.7,
+          "turnover": 0.97,
+          "up": 7,
+          "down": 36,
+          "n": null,
+          "leader": "天目药业",
+          "leader_pct": 0.75
+        },
+        {
+          "name": "科创板做市商",
+          "pct": -0.91,
+          "amount_yi": 52.7,
+          "turnover": 0.35,
+          "up": 0,
+          "down": 14,
+          "n": null,
+          "leader": "国金证券",
+          "leader_pct": -0.12
+        },
+        {
+          "name": "免税概念",
+          "pct": -0.89,
+          "amount_yi": 36.1,
+          "turnover": 0.59,
+          "up": 3,
+          "down": 15,
+          "n": null,
+          "leader": "珠免集团",
+          "leader_pct": 0.94
+        },
+        {
+          "name": "低碳冶金",
+          "pct": -0.88,
+          "amount_yi": 8.6,
+          "turnover": 0.39,
+          "up": 1,
+          "down": 5,
+          "n": null,
+          "leader": "首钢股份",
+          "leader_pct": 0.34
+        },
+        {
+          "name": "独家药品",
+          "pct": -0.81,
+          "amount_yi": 48.3,
+          "turnover": 1.04,
+          "up": 9,
+          "down": 34,
+          "n": null,
+          "leader": "天目药业",
+          "leader_pct": 0.75
+        }
+      ],
+      "n": 469,
+      "src": "东方财富板块行情（push2 clist）",
+      "excluded": [
+        "百元股",
+        "昨日连板_含一字",
+        "昨日连板",
+        "昨日涨停_含一字",
+        "历史新高",
+        "昨日涨停",
+        "基金重仓",
+        "昨日首板",
+        "微盘股",
+        "2026三季报预增",
+        "2026一季报扭亏",
+        "2026三季报扭亏",
+        "昨日打二板以上表现",
+        "专精特新",
+        "QFII重仓",
+        "创业板综",
+        "2026一季报预增",
+        "题材股",
+        "2026中报预增",
+        "昨日高振幅",
+        "2026中报扭亏",
+        "QFII新进",
+        "2026三季报预减",
+        "近期新高",
+        "2026一季报预减",
+        "昨日炸板",
+        "次新股",
+        "2026中报首亏",
+        "股权转让",
+        "转债标的",
+        "百日新高",
+        "融资融券",
+        "深股通",
+        "2026中报预减",
+        "昨日触板",
+        "沪股通",
+        "AB股",
+        "MSCI中国",
+        "机构重仓",
+        "养老金",
+        "低价股",
+        "社保重仓",
+        "AH股",
+        "中证500",
+        "深证100R",
+        "上证380",
+        "富时罗素",
+        "2026三季报首亏",
+        "标准普尔",
+        "破净股",
+        "B股",
+        "HS300_",
+        "ST股",
+        "上证50_",
+        "上证180_",
+        "长期破净",
+        "昨日高换手",
+        "红利破净股",
+        "GDR",
+        "证金持股",
+        "宁组合",
+        "茅指数"
+      ]
+    }
+  },
+  "overview": {
+    "n": 5574,
+    "n_up": 3538,
+    "n_down": 1827,
+    "n_flat": 209,
+    "limit_up": 85,
+    "limit_down": 3,
+    "zt_pool": 85,
+    "dt_pool": 0,
+    "amount": 16887.0,
+    "n_anomalies": 218,
+    "indices": [
+      {
+        "name": "上证指数",
+        "close": 3680.64,
+        "pct": 0.46,
+        "amount_yi": 7361.5,
+        "date": "20261111"
+      },
+      {
+        "name": "深证成指",
+        "close": 11389.74,
+        "pct": 1.32,
+        "amount_yi": 9401.2,
+        "date": "20261111"
+      },
+      {
+        "name": "创业板指",
+        "close": 2572.07,
+        "pct": 3.11,
+        "amount_yi": 4784.2,
+        "date": "20261111"
+      },
+      {
+        "name": "科创50",
+        "close": 1300.38,
+        "pct": 2.8,
+        "amount_yi": 764.4,
+        "date": "20261111"
+      },
+      {
+        "name": "沪深300",
+        "close": 4075.71,
+        "pct": 0.41,
+        "amount_yi": 4421.3,
+        "date": "20261111"
+      },
+      {
+        "name": "北证50",
+        "close": 923.31,
+        "pct": 2.3,
+        "amount_yi": 126.2,
+        "date": "20261111"
+      }
+    ]
+  },
+  "anomalies": [
+    {
+      "code": "301596",
+      "name": "瑞迪智驱",
+      "pct": 19.99,
+      "vol_ratio": 4.46,
+      "vr5": 4.464028777,
+      "turnover": 27.74,
+      "amount_yi": 6.85763587,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 104.8,
+      "news": []
+    },
+    {
+      "code": "002310",
+      "name": "东方新能",
+      "pct": 4.98,
+      "vol_ratio": 12.01,
+      "vr5": 12.0147974159,
+      "turnover": 22.45,
+      "amount_yi": 29.05236264,
+      "types": [
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 93.9,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "东方新能:第九届董事会第二十三次会议决议公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/002310/AN202611091831560668.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "东方新能:关于签署算力板卡采购合同的公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/002310/AN202611091831560666.html"
+        }
+      ]
+    },
+    {
+      "code": "300310",
+      "name": "宜通世纪",
+      "pct": 14.22,
+      "vol_ratio": 4.85,
+      "vr5": 4.8490383182,
+      "turnover": 14.68,
+      "amount_yi": 5.95290165,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 87.1,
+      "news": []
+    },
+    {
+      "code": "603586",
+      "name": "金麒麟",
+      "pct": 10.0,
+      "vol_ratio": 4.87,
+      "vr5": 4.8719761473,
+      "turnover": 4.85,
+      "amount_yi": 1.40633169,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 86.9,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-12",
+          "title": "金麒麟:山东金麒麟股份有限公司董事会薪酬与考核委员会关于公司向激励对象首次授予股票期权事项的核查意见",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/603586/AN202611111831631572.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-12",
+          "title": "金麒麟:山东金麒麟股份有限公司2026年第二次临时股东会决议公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/603586/AN202611111831631568.html"
+        }
+      ]
+    },
+    {
+      "code": "301052",
+      "name": "果麦文化",
+      "pct": 20.0,
+      "vol_ratio": 1.35,
+      "vr5": 1.3466389458,
+      "turnover": 52.45,
+      "amount_yi": 18.37537907,
+      "types": [
+        "涨停",
+        "异常高换手"
+      ],
+      "strength": 85.8,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "果麦文化:第四届董事会第一次会议决议公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/301052/AN202611101831594231.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "果麦文化:关于董事会完成换届选举暨聘任高级管理人员、证券事务代表的公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/301052/AN202611101831594229.html"
+        }
+      ]
+    },
+    {
+      "code": "002427",
+      "name": "尤夫股份",
+      "pct": 7.51,
+      "vol_ratio": 8.08,
+      "vr5": 8.0813261755,
+      "turnover": 6.28,
+      "amount_yi": 2.84465146,
+      "types": [
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 84.5,
+      "news": []
+    },
+    {
+      "code": "300473",
+      "name": "德尔股份",
+      "pct": 20.0,
+      "vol_ratio": 1.63,
+      "vr5": 1.632188132,
+      "turnover": 18.33,
+      "amount_yi": 15.57106069,
+      "types": [
+        "涨停",
+        "放量突破60日新高"
+      ],
+      "strength": 83.4,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-12",
+          "title": "德尔股份:股票交易异常波动公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/300473/AN202611111831629785.html"
+        }
+      ]
+    },
+    {
+      "code": "301636",
+      "name": "泽润新能",
+      "pct": 20.01,
+      "vol_ratio": 2.03,
+      "vr5": 2.0301697654,
+      "turnover": 22.21,
+      "amount_yi": 3.80033251,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 83.1,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "泽润新能:投资者关系活动记录表-2026年11月10日",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/301636/AN202611101831590764.html"
+        }
+      ]
+    },
+    {
+      "code": "002278",
+      "name": "神开股份",
+      "pct": 10.07,
+      "vol_ratio": 4.6,
+      "vr5": 4.6039368459,
+      "turnover": 11.98,
+      "amount_yi": 3.38968201,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 79.8,
+      "news": []
+    },
+    {
+      "code": "301486",
+      "name": "致尚科技",
+      "pct": 20.0,
+      "vol_ratio": 2.16,
+      "vr5": 2.1580666186,
+      "turnover": 17.07,
+      "amount_yi": 18.97553257,
+      "types": [
+        "涨停",
+        "放量大涨"
+      ],
+      "strength": 79.1,
+      "news": []
+    },
+    {
+      "code": "000407",
+      "name": "胜利股份",
+      "pct": 10.13,
+      "vol_ratio": 4.57,
+      "vr5": 4.569634298,
+      "turnover": 10.5,
+      "amount_yi": 3.92001197,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 79.0,
+      "news": []
+    },
+    {
+      "code": "300052",
+      "name": "中青宝",
+      "pct": 8.63,
+      "vol_ratio": 4.2,
+      "vr5": 4.2008416789,
+      "turnover": 33.43,
+      "amount_yi": 10.90455899,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 78.2,
+      "news": []
+    },
+    {
+      "code": "300960",
+      "name": "通业科技",
+      "pct": 13.95,
+      "vol_ratio": 5.12,
+      "vr5": 5.1227283997,
+      "turnover": 8.48,
+      "amount_yi": 2.09510571,
+      "types": [
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 75.3,
+      "news": []
+    },
+    {
+      "code": "002362",
+      "name": "汉王科技",
+      "pct": 10.01,
+      "vol_ratio": 2.88,
+      "vr5": 2.8806263969,
+      "turnover": 12.81,
+      "amount_yi": 4.84569748,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 74.2,
+      "news": []
+    },
+    {
+      "code": "002765",
+      "name": "蓝黛科技",
+      "pct": 10.01,
+      "vol_ratio": 2.99,
+      "vr5": 2.9894094195,
+      "turnover": 8.67,
+      "amount_yi": 3.91715388,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 73.4,
+      "news": []
+    },
+    {
+      "code": "688135",
+      "name": "利扬芯片",
+      "pct": 20.01,
+      "vol_ratio": 1.78,
+      "vr5": 1.7849456009,
+      "turnover": 12.9,
+      "amount_yi": 9.89370139,
+      "types": [
+        "涨停"
+      ],
+      "strength": 71.5,
+      "news": []
+    },
+    {
+      "code": "002160",
+      "name": "常铝股份",
+      "pct": 10.0,
+      "vol_ratio": 2.58,
+      "vr5": 2.5817115711,
+      "turnover": 11.95,
+      "amount_yi": 5.40989997,
+      "types": [
+        "涨停(2连板)",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 71.4,
+      "news": []
+    },
+    {
+      "code": "301578",
+      "name": "辰奕智能",
+      "pct": 9.77,
+      "vol_ratio": 2.98,
+      "vr5": 2.9787591403,
+      "turnover": 32.97,
+      "amount_yi": 3.03301816,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 70.6,
+      "news": []
+    },
+    {
+      "code": "002425",
+      "name": "凯撒文化",
+      "pct": 10.06,
+      "vol_ratio": 2.21,
+      "vr5": 2.2062506664,
+      "turnover": 16.37,
+      "amount_yi": 5.69453884,
+      "types": [
+        "涨停(2连板)",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 70.3,
+      "news": []
+    },
+    {
+      "code": "603421",
+      "name": "鼎信通讯",
+      "pct": 8.2,
+      "vol_ratio": 5.95,
+      "vr5": 5.9546346019,
+      "turnover": 7.82,
+      "amount_yi": 2.99732043,
+      "types": [
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 70.2,
+      "news": []
+    },
+    {
+      "code": "300990",
+      "name": "同飞股份",
+      "pct": 19.99,
+      "vol_ratio": 1.54,
+      "vr5": 1.5437148613,
+      "turnover": 13.43,
+      "amount_yi": 8.98172142,
+      "types": [
+        "涨停"
+      ],
+      "strength": 69.7,
+      "news": []
+    },
+    {
+      "code": "603706",
+      "name": "东方环宇",
+      "pct": 10.0,
+      "vol_ratio": 2.35,
+      "vr5": 2.3494393953,
+      "turnover": 8.9,
+      "amount_yi": 3.89247994,
+      "types": [
+        "涨停(3连板)",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 68.4,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-12",
+          "title": "东方环宇:东方环宇股票交易风险提示公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/603706/AN202611111831626492.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-11",
+          "title": "东方环宇:2026年第三季度业绩说明会投资者关系活动记录表2026-004",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/603706/AN202611111831619872.html"
+        }
+      ]
+    },
+    {
+      "code": "603466",
+      "name": "风语筑",
+      "pct": 9.98,
+      "vol_ratio": 1.55,
+      "vr5": 1.5460397164,
+      "turnover": 20.97,
+      "amount_yi": 20.34566763,
+      "types": [
+        "涨停(2连板)",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 66.7,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-12",
+          "title": "风语筑:上海风语筑文化科技股份有限公司股票交易异常波动的公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/603466/AN202611111831628931.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-11",
+          "title": "风语筑:上海风语筑文化科技股份有限公司第四届董事会第二十次会议决议公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/603466/AN202611101831590305.html"
+        }
+      ]
+    },
+    {
+      "code": "603275",
+      "name": "众辰科技",
+      "pct": 6.7,
+      "vol_ratio": 5.49,
+      "vr5": 5.489010202,
+      "turnover": 15.35,
+      "amount_yi": 2.6438055,
+      "types": [
+        "放量大涨",
+        "异常高换手"
+      ],
+      "strength": 66.5,
+      "news": []
+    },
+    {
+      "code": "688498",
+      "name": "源杰科技",
+      "pct": 20.0,
+      "vol_ratio": 1.38,
+      "vr5": 1.375724672,
+      "turnover": 8.24,
+      "amount_yi": 72.50501841,
+      "types": [
+        "涨停"
+      ],
+      "strength": 66.3,
+      "news": []
+    },
+    {
+      "code": "002139",
+      "name": "拓邦股份",
+      "pct": 5.97,
+      "vol_ratio": 4.71,
+      "vr5": 4.709493726,
+      "turnover": 6.37,
+      "amount_yi": 7.14881413,
+      "types": [
+        "放量大涨",
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 66.2,
+      "news": []
+    },
+    {
+      "code": "002779",
+      "name": "中坚科技",
+      "pct": 10.0,
+      "vol_ratio": 2.13,
+      "vr5": 2.1274570207,
+      "turnover": 6.91,
+      "amount_yi": 10.98068392,
+      "types": [
+        "涨停",
+        "放量大涨",
+        "放量突破60日新高"
+      ],
+      "strength": 65.8,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-12",
+          "title": "中坚科技:关于股票交易异常波动的公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/002779/AN202611111831630762.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "002779中坚科技投资者关系管理信息20261110",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/002779/AN202611101831592520.html"
+        }
+      ]
+    },
+    {
+      "code": "000678",
+      "name": "襄阳轴承",
+      "pct": 10.02,
+      "vol_ratio": 1.5,
+      "vr5": 1.4989529101,
+      "turnover": 37.39,
+      "amount_yi": 34.50850094,
+      "types": [
+        "涨停(2连板)",
+        "异常高换手"
+      ],
+      "strength": 62.0,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "襄阳轴承:第八届董事会第一次会议决议公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/000678/AN202611091831559317.html"
+        },
+        {
+          "kind": "公告",
+          "date": "2026-11-10",
+          "title": "襄阳轴承:2026年第四次临时股东会决议公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/000678/AN202611091831559321.html"
+        }
+      ]
+    },
+    {
+      "code": "600609",
+      "name": "金杯汽车",
+      "pct": 4.18,
+      "vol_ratio": 4.36,
+      "vr5": 4.3621189754,
+      "turnover": 17.29,
+      "amount_yi": 8.98813038,
+      "types": [
+        "异常高换手",
+        "放量突破60日新高"
+      ],
+      "strength": 61.2,
+      "news": [
+        {
+          "kind": "公告",
+          "date": "2026-11-11",
+          "title": "金杯汽车:金杯汽车股票交易异常波动公告",
+          "summary": "",
+          "src": null,
+          "url": "https://data.eastmoney.com/notices/detail/600609/AN202611101831596063.html"
+        }
+      ]
+    },
+    {
+      "code": "003032",
+      "name": "传智教育",
+      "pct": 10.0,
+      "vol_ratio": 1.66,
+      "vr5": 1.6646614899,
+      "turnover": 31.82,
+      "amount_yi": 9.70107603,
+      "types": [
+        "涨停",
+        "异常高换手"
+      ],
+      "strength": 61.0,
+      "news": []
+    }
+  ],
+  "notes": [
+    "融资余额最新日期为 2026-11-05（2026-11-11 数据尚未发布）"
+  ]
+}
