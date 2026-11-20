@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-20",
+    "data_date": "2026-11-19",
+    "short_score": 10.1,
+    "short_label": "冰点",
+    "breadth_score": 16.6,
+    "breadth_label": "冰点",
+    "valuation_score": 43.3,
+    "valuation_label": "中性",
+    "n_anomalies": 182
+  },
+  {
     "date": "2026-11-19",
     "data_date": "2026-11-18",
     "short_score": 36.0,
