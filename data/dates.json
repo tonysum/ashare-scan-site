@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-11-25",
+    "data_date": "2026-11-24",
+    "short_score": 54.5,
+    "short_label": "中性",
+    "breadth_score": 27.0,
+    "breadth_label": "偏弱",
+    "valuation_score": 42.6,
+    "valuation_label": "中性",
+    "n_anomalies": 169
+  },
+  {
     "date": "2026-11-24",
     "data_date": "2026-11-23",
     "short_score": 91.3,
